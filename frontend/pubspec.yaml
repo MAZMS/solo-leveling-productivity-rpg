@@ -1,0 +1,18 @@
+name: solo_leveling_productivity_rpg
+version: 0.1.0
+description: A productivity RPG app inspired by Solo Leveling.
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.1
+  provider: ^6.1.2
+  shared_preferences: ^2.2.2
+  cupertino_icons: ^1.0.6
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+flutter:
+  uses-material-design: true
